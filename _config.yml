@@ -4,16 +4,16 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
+  name: Jun
+  email: j.sheerly@gmail.com
+  link: http://junyin.github.io
   weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  github: http://github.com/junyin
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: jun's blog
+description: jun's personal blog
+url: http://junyin.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -23,19 +23,18 @@ favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: junyin.github.io
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: jun_yin
 
 # 主题设置，自动激活某个标签
-active: 技术
+active: notes
 
 # 首页除了最新文章外显示分类
 cates: 
-  - Python
-  - OpenStack
+  - OpenGL
 
 # 中文本地化
 locals:
